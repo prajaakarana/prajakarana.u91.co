@@ -11,5 +11,5 @@ Kannada film star Upendra on Saturday announced that he will launch a new politi
 More info: [Deccan Chronicle](http://www.deccanchronicle.com/nation/current-affairs/120817/kannada-actor-upendra-to-launch-launch-political-party.html)
 
 <center>
-![](http://images.deccanchronicle.com/dc-Cover-14bk6mtahjc7dc1hltnpjpo9t7-20170812190513.Medi.jpeg)
+![](/assets/upendra.jpeg)
 </center>
