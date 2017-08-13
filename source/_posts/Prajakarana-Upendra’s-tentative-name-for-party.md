@@ -1,6 +1,6 @@
 ---
 title: 'Prajakarana, Upendra’s tentative name for party'
-date: 2017-08-13 11:55:55
+date: 2017-08-12 11:55:55
 tags: the-hindu
 ---
 <center>

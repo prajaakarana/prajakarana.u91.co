@@ -11,7 +11,7 @@ user_name: Prajakarana
 user_avatar: https://prajakarana.u91.co/2017/08/13/Prajakarana-Upendra%E2%80%99s-tentative-name-for-party/13BGUPENDRA512.jpg?raw=true
 user_location: Bengaulru, Karnataka
 user_description: "by Uppi"
-user_contact: prajaakarana1@gmail.com
+user_contact: prajaakaarana1@gmail.com
 user_introduction: "people-centric democracy"
 github_username: prajakarana
 twitter_username: NimmaUpendra
@@ -19,7 +19,8 @@ weibo_username:
 zhihu_username:
 facebook_username:
 linkedin_username:
-
+author_avatar: https://s.gravatar.com/avatar/644b3c2ba34959ac56b181fcc6937d2b?size=496&default=retro
+author_name: Manjesh V
 # Content
 excerpt_link: Read More
 fancybox: true

@@ -42,8 +42,8 @@
                 <h2><%- post.subtitle%></h2>
             <%}%>
             <div class="is-flex align-center">
-                <img class="post-avatar" src="<%- theme.user_avatar %>">
-                <span style="padding:0 10px;"> <span class="sub-title">By</span> <%- theme.user_name%></span>
+                <img class="post-avatar" src="<%- theme.author_avatar %>">
+                <span style="padding:0 10px;"> <span class="sub-title">By</span> <%- theme.author_name%></span>
                 <span class="post-date sub-title">at: <%= post.date.format(config.date_format) %></span>
             </div>
             <% if(post.tags){%>
