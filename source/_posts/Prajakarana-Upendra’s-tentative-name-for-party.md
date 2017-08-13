@@ -1,7 +1,6 @@
 ---
 title: 'Prajakarana, Upendra’s tentative name for party'
 date: 2017-08-13 11:55:55
-post-avatar: http://www.thehindu.com/news/national/karnataka/article19483169.ece/alternates/FREE_960/13BGUPENDRA
 tags: the-hindu
 ---
 <center>
@@ -13,5 +12,5 @@ Actor Upendra, who has been making his intentions clear about entering politics,
 
 The new party will initially focus on State politics, before venturing into national politics.
 
-More info: [The Hindu](http://www.thehindu.com/news/national/karnataka/ prajakarana-upendras-tentative-name-for-party/article19483170.ece)
+More info: [The Hindu](http://www.thehindu.com/news/national/karnataka/prajakarana-upendras-tentative-name-for-party/article19483170.ece)
 
