@@ -1,8 +1,7 @@
 # Header
 menu:
   Home: /
-  Developers: /developers
-  #Tags: /tags
+#  Tags: /tags
 
 rss: /atom.xml
 
