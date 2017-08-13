@@ -58,6 +58,13 @@
             <%- post.content %>
         </div>
         <div class="post-reply">
+            <% if (theme.use_fb){%>
+            <!-- 来必力City版安装代码 -->
+            <div id="fb-root"></div>
+            <div class="fb-comments"  data-numposts="5"></div>
+            <!-- City版安装代码已完成 -->
+            <%}%>
+
             <% if (theme.use_livere){%>
                 <!-- 来必力City版安装代码 -->
                 <div id="lv-container" data-id="city" data-uid="<%- theme.livere_uid%>">
