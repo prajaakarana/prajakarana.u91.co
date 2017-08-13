@@ -42,7 +42,7 @@ use_disqus: false
 disqus_url: https://haojen.disqus.com/embed.js
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-104512304-1
 favicon: /favicon.png
 #twitter:
 #google_plus:
