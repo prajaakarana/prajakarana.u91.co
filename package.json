@@ -19,6 +19,7 @@
   "scripts": {
     "start": "hexo server",
     "generate": "hexo generate",
-    "deploy": "git add *; git commit -m \"Auto Commit\"; git push origin master"
+    "add": "git add *;",
+    "deploy": "git commit -m \"Auto Commit\"; git push origin master"
   }
 }
