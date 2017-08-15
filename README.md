@@ -1,4 +1,4 @@
-# Prajakarana
+# Prajaakarana
 
 People Centric Democracy
 

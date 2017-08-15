@@ -10,5 +10,5 @@ The actor, who has been on and off dropping hints about his political entry, sai
 Read more at: [India Today](http://indiatoday.intoday.in/story/kannada-actor-upendra-says-he-will-launch-political-party/1/1024751.html)
 
 <center>
-![](/2017/08/13/Prajakarana-Upendra’s-tentative-name-for-party/13BGUPENDRA.jpg?raw=true)
+![](/2017/08/13/Prajaakarana-Upendra’s-tentative-name-for-party/13BGUPENDRA.jpg?raw=true)
 </center>
