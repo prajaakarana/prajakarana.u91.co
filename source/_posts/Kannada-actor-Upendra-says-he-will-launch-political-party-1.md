@@ -1,7 +1,7 @@
 ---
 title: Kannada actor Upendra says he will launch political party
 date: 2017-08-13 17:26:10
-tags:
+tags: india-today
 ---
 Kannada film star Upendra today announced that he will launch a new political party in the state, where Assembly polls are due early next year.
 
@@ -10,5 +10,5 @@ The actor, who has been on and off dropping hints about his political entry, sai
 Read more at: [India Today](http://indiatoday.intoday.in/story/kannada-actor-upendra-says-he-will-launch-political-party/1/1024751.html)
 
 <center>
-![](/2017/08/13/Prajaakarana-Upendra’s-tentative-name-for-party/13BGUPENDRA.jpg?raw=true)
+![](/assets/13BGUPENDRA.jpg?raw=true)
 </center>

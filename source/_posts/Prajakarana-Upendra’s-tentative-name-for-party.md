@@ -5,7 +5,7 @@ tags: the-hindu
 ---
 <center>
 {% youtube uBYIVTFLjwc %}
-![](/2017/08/13/Prajaakarana-Upendra’s-tentative-name-for-party/13BGUPENDRA.jpg?raw=true)
+![](/assets/13BGUPENDRA.jpg)
 </center>
 
 Actor Upendra, who has been making his intentions clear about entering politics, is all set to launch his own outfit that will tentatively be called Prajaakarana.

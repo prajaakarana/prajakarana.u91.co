@@ -1,7 +1,7 @@
 ---
 title: Kannada Film Star Upendra To Launch New Political Party
 date: 2017-08-15 10:13:20
-tags: ["republic-world", "arnab-goswami", "national-politics"]
+tags: republic-world
 ---
 
 Kannada film star Upendra announced on Saturday that he will launch a new political party in the state, where Assembly polls are due early next year.
