@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Uppi Prajaakarana ಪ್ರಾಜಾಕಾರಣ</title>
-  <subtitle>ಪ್ರಾಜಕೀಯ... ಪ್ರಾಜಾಕಾರಣ... ಪ್ರಜಾನೀತಿ.. Prajaakeeya... Prajaakarana... Prajaaneeti..</subtitle>
+  <title>Uppi Prajaakarana ಪ್ರಜಾಕಾರಣ</title>
+  <subtitle>ಪ್ರಜಾಕೀಯ... ಪ್ರಜಾಕಾರಣ... ಪ್ರಜಾನೀತಿ... Prajaakeeya... Prajaakarana... Prajaaneeti..</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://prajakarana.u91.co/"/>
-  <updated>2017-08-15T05:28:36.267Z</updated>
+  <updated>2017-08-15T11:51:23.813Z</updated>
   <id>https://prajakarana.u91.co/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://prajakarana.u91.co/2017/08/15/Kannada-Film-Star-Upendra-To-Launch-New-Political-Party/"/>
     <id>https://prajakarana.u91.co/2017/08/15/Kannada-Film-Star-Upendra-To-Launch-New-Political-Party/</id>
     <published>2017-08-15T04:43:20.000Z</published>
-    <updated>2017-08-15T05:28:36.267Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
@@ -31,10 +31,6 @@
     
       <category term="republic-world" scheme="https://prajakarana.u91.co/tags/republic-world/"/>
     
-      <category term="arnab-goswami" scheme="https://prajakarana.u91.co/tags/arnab-goswami/"/>
-    
-      <category term="national-politics" scheme="https://prajakarana.u91.co/tags/national-politics/"/>
-    
   </entry>
   
   <entry>
@@ -42,7 +38,7 @@
     <link href="https://prajakarana.u91.co/2017/08/14/%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%95%E0%B3%80%E0%B2%AF-%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%95%E0%B2%BE%E0%B2%B0%E0%B2%A3-%E0%B2%AA%E0%B3%8D%E0%B2%B0%E0%B2%9C%E0%B2%BE%E0%B2%A8%E0%B3%80%E0%B2%A4%E0%B2%BF-%E0%B2%85%E0%B2%82%E0%B2%B6%E0%B2%A6%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%BF-%E0%B2%89%E0%B2%AA%E0%B3%87%E0%B2%82%E0%B2%A6%E0%B3%8D%E0%B2%B0-%E0%B2%B9%E0%B3%8A%E0%B2%B8-%E0%B2%AA%E0%B2%95%E0%B3%8D%E0%B2%B7/"/>
     <id>https://prajakarana.u91.co/2017/08/14/ಪ್ರಜಾಕೀಯ-ಪ್ರಜಾಕಾರಣ-ಪ್ರಜಾನೀತಿ-ಅಂಶದಲ್ಲಿ-ಉಪೇಂದ್ರ-ಹೊಸ-ಪಕ್ಷ/</id>
     <published>2017-08-14T08:20:42.000Z</published>
-    <updated>2017-08-14T08:24:46.027Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
@@ -60,7 +56,7 @@
     <link href="https://prajakarana.u91.co/2017/08/13/Kannada-actor-Upendra-says-he-will-launch-political-party-1/"/>
     <id>https://prajakarana.u91.co/2017/08/13/Kannada-actor-Upendra-says-he-will-launch-political-party-1/</id>
     <published>2017-08-13T11:56:10.000Z</published>
-    <updated>2017-08-15T05:13:24.975Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
@@ -69,6 +65,8 @@
     </summary>
     
     
+      <category term="india-today" scheme="https://prajakarana.u91.co/tags/india-today/"/>
+    
   </entry>
   
   <entry>
@@ -76,7 +74,7 @@
     <link href="https://prajakarana.u91.co/2017/08/13/Battle-for-2018-Assembly-polls-Actor-Upendra-begins-%E2%80%98Prajakarana%E2%80%99/"/>
     <id>https://prajakarana.u91.co/2017/08/13/Battle-for-2018-Assembly-polls-Actor-Upendra-begins-‘Prajakarana’/</id>
     <published>2017-08-13T11:52:48.000Z</published>
-    <updated>2017-08-15T05:13:24.029Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
@@ -94,7 +92,7 @@
     <link href="https://prajakarana.u91.co/2017/08/13/Kannada-actor-Upendra-says-he-will-launch-political-party/"/>
     <id>https://prajakarana.u91.co/2017/08/13/Kannada-actor-Upendra-says-he-will-launch-political-party/</id>
     <published>2017-08-13T11:21:54.000Z</published>
-    <updated>2017-08-13T11:23:53.205Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
@@ -112,7 +110,7 @@
     <link href="https://prajakarana.u91.co/2017/08/13/UPPI%E2%80%99S-BIGGEST-ROLE-WILL-START-WITHOUT-A-SCRIPT/"/>
     <id>https://prajakarana.u91.co/2017/08/13/UPPI’S-BIGGEST-ROLE-WILL-START-WITHOUT-A-SCRIPT/</id>
     <published>2017-08-13T11:14:04.000Z</published>
-    <updated>2017-08-13T11:19:49.372Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
@@ -131,7 +129,7 @@
     <link href="https://prajakarana.u91.co/2017/08/13/Kannada-actor-Upendra-to-launch-political-party/"/>
     <id>https://prajakarana.u91.co/2017/08/13/Kannada-actor-Upendra-to-launch-political-party/</id>
     <published>2017-08-13T11:02:34.000Z</published>
-    <updated>2017-08-13T11:11:29.187Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
@@ -150,7 +148,7 @@
     <link href="https://prajakarana.u91.co/2017/08/12/Prajakarana-Upendra%E2%80%99s-tentative-name-for-party/"/>
     <id>https://prajakarana.u91.co/2017/08/12/Prajakarana-Upendra’s-tentative-name-for-party/</id>
     <published>2017-08-12T06:25:55.000Z</published>
-    <updated>2017-08-15T05:13:24.859Z</updated>
+    <updated>2017-08-15T11:51:23.813Z</updated>
     
     <summary type="html">
     
